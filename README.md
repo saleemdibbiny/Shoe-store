@@ -2,7 +2,7 @@
 <b>SPL: Assignment 2</b><br />
 Java Concurrency and Synchronization<br /><br />
 
-## Description ##<br />
+## Description ##
 Implemention of a simple shoe store using an implementation of a simple micro-service framework. The micro-services architecture has become quite
 popular in recent years. In the micro-services architecture, complex applications are composed of
 small, independent services which have the ability to communicate with each other using broadcastmessages
