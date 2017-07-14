@@ -17,11 +17,11 @@ The implementation is composed of two parts: <br />
 2. Implementing a simple shoe store application on top of this framework<br />
 
 ###  Part 1: Micro-Services Framework Architecture ###
-In this part we built a simple micro-services framework. A micro-services framework is composed
+In this part, we built a simple micro-services framework. A micro-services framework is composed
 of two main parts, Micro-Services and a MessageBus. Each micro-service is a thread that can
 send and receive messages using a shared object referred to as the message-bus.
 ###  Part 2: Building an Online Shoe Store ###
-In this part, we used the micro-services framework we built in order to
+Using the micro-services framework we built in order to
 implement the functionality needed for a simple online shoe store with simulated clients. <br />
 For the purpose of the simulative parts of the system, we implemented a time service. The
 time service keeps track of time passing in our execution, it serves as a global clock that counts the
